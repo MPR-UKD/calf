@@ -6,3 +6,5 @@ calf - <ins>**C**</ins>EST <ins>**a**</ins>nalysis software by <ins>**L**</ins>o
 calf is a user friendly software for the analysis of chemical exchange saturation transfer (CEST) MRI data. calf is developed in VC++ 2022 using MFC as graphical user interface. calf uses the control panels common in Windows, so that the user can easily find his way around.
 
 *calf will be available in near future - stay tuned...*
+
+Until then, you should take a look at the help file: help.chm. Once downloaded, right-click Properties and enable unblocking...
