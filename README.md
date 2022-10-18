@@ -1,4 +1,4 @@
-# calf &nbsp;&nbsp;&nbsp; ![image](https://user-images.githubusercontent.com/3669480/192763855-599614be-cd45-43d3-acf9-363b8a3748ca.png)      
+# calf &nbsp;&nbsp;&nbsp;    
 
 
 calf - <ins>**C**</ins>EST <ins>**a**</ins>nalysis software by <ins>**L**</ins>orentzian <ins>**f**</ins>itting
