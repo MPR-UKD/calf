@@ -8,6 +8,4 @@ calf is a user friendly software for the analysis of chemical exchange saturatio
 
 *The easiest way to get calf up and running is to download "calf.zip" and unzip it to a folder of your choice. Double click on calf.exe to start the software.*
 
-*calf will be available in near future - stay tuned...*
-
-Until then, you should take a look at the help file: <a id="raw-url" href="https://github.com/MPR-UKD/calf/blob/main/calf.chm">calf.chm</a>. Once downloaded, right-click Properties and enable unblocking...
+Here is the help file for a first look at calf: <a id="raw-url" href="https://github.com/MPR-UKD/calf/blob/main/calf.chm">calf.chm</a>. Once downloaded, right-click Properties and enable unblocking...
