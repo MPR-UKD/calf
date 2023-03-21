@@ -13,6 +13,11 @@ Welcome to calf, a user-friendly software for the analysis of chemical exchange 
 - Support for Windows 10/11
 
 ## Getting Started
+
+<div class="box">
+**Note:** To open the help file, right-click on the calf.chm file, select Properties and then Unblock. (This is because Windows may block files downloaded with active fields).
+</div>
+
 To get started with calf, please follow these steps:
 
 1. Download the latest release, zip file or the full repository of calf from the GitHub repository.
