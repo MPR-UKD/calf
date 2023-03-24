@@ -34,7 +34,7 @@ To get started with calf, please follow these steps:
 6. Now you can customize the parameters of the Lorentzian fitting and calculate CEST maps
 
 ## Usage and Citation
-calf is distributed under the MIT license. If you use calf in your research or work, please cite our paper. For any questions or issues, please feel free to open an issue on the GitHub repository.
+If you use calf in your research or work, please cite our paper. For any questions or issues, please feel free to open an issue on the GitHub repository.
 
 Paper: <https://link.springer.com/article/10.1007/s10916-023-01931-6>
 
