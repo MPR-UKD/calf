@@ -36,9 +36,9 @@ To get started with calf, please follow these steps:
 ## Usage and Citation
 calf is distributed under the MIT license. If you use calf in your research or work, please cite our paper. For any questions or issues, please feel free to open an issue on the GitHub repository.
 
-Paper: <link> (coming soon)
+Paper: <https://link.springer.com/article/10.1007/s10916-023-01931-6>
 
-doi: <doi> (coming soon)
+doi: <https://doi.org/10.1007/s10916-023-01931-6>
 
 ## License
 calf is distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.
